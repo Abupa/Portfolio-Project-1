@@ -1,5 +1,5 @@
 1. Project description:
-This project analyzes the cost of health insurance in the United States. The study examined factors that influence the price of insurance, such as age, gender, body mass index (BMI), number of children, smoking, and region of residence.
+This project analyzes the cost of health insurance in the United States. The study examined factors that influence the price of insurance, such as age, gender, body mass index (BMI), number of children, smoking and region of residence.
 
 2. Tools used:
 - Python (Pandas)
